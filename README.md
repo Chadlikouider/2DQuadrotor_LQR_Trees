@@ -8,6 +8,10 @@ In order to run this program you will need to have the following installed on yo
 
 and extract the folder to Generate_trees folder
 
+## steps
+* Generate the LQR-trees by running generateQuad2D file in Generate_trees folder
+* run Quadrotor2D_withObstacles or Quadrotor2D to visualize and test the LQR-Trees generated
+
 ## Future Work
 
 * Improve code documentation
