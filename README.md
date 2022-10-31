@@ -13,7 +13,8 @@ and extract the folder to Generate_trees folder
 * run Quadrotor2D_withObstacles or Quadrotor2D to visualize and test the LQR-Trees generated
 
 ## Visualization
-https://github.com/Chadlikouider/2DQuadrotor_LQR_Trees/blob/main/Figure%2033%202021-09-23%2014-30-49.mp4
+https://user-images.githubusercontent.com/110521665/198944456-fa62c5ec-b385-415e-bbe5-df44e100e00b.mp4
+
 
 ## Future Work
 
